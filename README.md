@@ -1,6 +1,6 @@
-# PMJC Live Global Privacy Policy
+# PMJC Global Live Privacy Policy
 
-This project contains the privacy policy for PMJC Live Global, a non-profit Christian ministry organization. The privacy policy outlines how PMJC Live Global collects, uses, discloses, and safeguards personal information from its listeners, supporters, and community members.
+This project contains the privacy policy for PMJC Global Live, a non-profit Christian ministry organization. The privacy policy outlines how PMJC Global Live collects, uses, discloses, and safeguards personal information from its listeners, supporters, and community members.
 
 ## Project Structure
 
@@ -31,10 +31,10 @@ This project contains the privacy policy for PMJC Live Global, a non-profit Chri
 
 For questions or requests regarding the privacy policy, contact:
 
-- **PMJC Live Global Ministry**
+- **PMJC Global Live Ministry**
 - Website: [pmjcglobal.org](https://pmjcglobal.org)
 - Phone/WhatsApp: +1 (718) 613-9040, +1 (972) 903-1069
-- Email: info@pmjcglobal.org
+- Email: <info@pmjcglobal.org>
 
 ## Usage
 
